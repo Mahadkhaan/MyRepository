@@ -1,0 +1,5 @@
+Line 1
+Line 2
+Line 3
+
+idk why this was in subfolder of practicedirectory, moved it to the main one, changed this text too. Deleting line 4
